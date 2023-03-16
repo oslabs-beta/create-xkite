@@ -1,0 +1,27 @@
+{
+  "name": "create-xkite",
+  "version": "1.0.0",
+  "description": "Create xkite with no build configuration",
+  "bin": {
+    "create-xkite": "./create-xkite.js"
+  },
+  "homepage": "https://github.com/oslabs-beta/create-xkite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oslabs-beta/create-xkite"
+  },
+  "files": [
+    "create-xkite.js"
+  ],
+  "keywords": [
+    "kafka",
+    "docker",
+    "spring",
+    "ksql",
+    "kafkajs",
+    "GUI",
+    "xkite"
+  ],
+  "author": "Zahara Aviv <zahara.aviv@gmail.com>",
+  "license": "MIT"
+}
